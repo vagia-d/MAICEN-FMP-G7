@@ -1,0 +1,11 @@
+ifcopenshell
+pandas
+numpy
+jupyter
+matplotlib
+scikit-learn
+python-dotenv
+pypdf
+langchain
+faiss-cpu
+sentence-transformers
